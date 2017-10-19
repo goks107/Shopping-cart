@@ -42,11 +42,11 @@ if($_SESSION['name']!="Guest"){
       <body>
       <!-- Header -->
       <div id="header" class="shell">
-	<div id="logo"><h1><a href="index.html">BestSeller</a></h1></div>
+	<div id="logo"><h1><a href="index.php">BestSeller</a></h1></div>
 	<!-- Navigation -->
 	<div id="navigation">
 	  <ul>
-	    <li><a href="index.html" class="active">Home</a></li>
+	    <li><a href="index.php" class="active">Home</a></li>
 	    <li><a href="home.php" class="active">Products</a></li>
 	    <li><a href="feedback.html"class="active">Feedback</a></li>
 	  </ul>
