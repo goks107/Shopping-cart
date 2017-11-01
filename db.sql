@@ -59,10 +59,10 @@ CREATE TABLE IF NOT EXISTS `Feedback` (
 --
 
 INSERT INTO `Feedback` (`name`, `email`, `message`) VALUES
-('heeraj', 'heeraj123@gmail.com', 'hai'),
-('heeraj', 'heeraj123@gmail.com', 'hai'),
-('heeraj', 'heeraj123@gmail.com', 'hai'),
-('heeraj', 'heeraj123@gmail.com', 'hai');
+('abc', '123@gmail.com', 'hai'),
+('cde', '345@gmail.com', 'hai'),
+('efg', '456@gmail.com', 'hai'),
+('ghi', '678@gmail.com', 'hai');
 
 -- --------------------------------------------------------
 
@@ -80,19 +80,19 @@ CREATE TABLE IF NOT EXISTS `register` (
 --
 
 INSERT INTO `register` (`username`, `password`) VALUES
-('heeraj123', 'ram'),
+('abc', 'ram'),
 ('hrj', 'hai'),
 ('heeraj', 'haihjai'),
 ('jaya', 'hari'),
-('heeraj123', 'ram'),
+('abc', 'ram'),
 ('hrj', 'hai'),
 ('heeraj', 'haihjai'),
 ('jaya', 'hari'),
-('heeraj123', 'ram'),
+('abc', 'ram'),
 ('hrj', 'hai'),
 ('heeraj', 'haihjai'),
 ('jaya', 'hari'),
-('heeraj123', 'ram'),
+('abc', 'ram'),
 ('hrj', 'hai'),
 ('heeraj', 'haihjai'),
 ('jaya', 'hari');
